@@ -1,0 +1,252 @@
+[
+  {
+    "id": 0,
+    "question": "Hvem vinder i aften?",
+    "answers": [
+      {
+        "text": "Slotte",
+        "points": 20
+      },
+      {
+        "text": "Kai",
+        "points": 19
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Hvad ville en parterapeut sige er deres største styrke?",
+    "answers": [
+      {
+        "text": "Humor",
+        "points": 36
+      },
+      {
+        "text": "Tolerance og giver hinanden plads",
+        "points": 25
+      },
+      {
+        "text": "Forskelligheder",
+        "points": 14
+      },
+      {
+        "text": "Kærligheden og sammenhold",
+        "points": 14
+      },
+      {
+        "text": "Udholdenhed",
+        "points": 7
+      },
+      {
+        "text": "De bruger begge mælk i kaffen",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Hvilken vane har Slotte, som Kai har lært at leve med?",
+    "answers": [
+      {
+        "text": "Spiser meget marabou/chokolade",
+        "points": 33
+      },
+      {
+        "text": "Meget tidligt i seng og meget tidligt op",
+        "points": 24
+      },
+      {
+        "text": "Tager aldrig telefonen",
+        "points": 19
+      },
+      {
+        "text": "Prutter i soveværelset",
+        "points": 10
+      },
+      {
+        "text": "Sviner ved madlavning",
+        "points": 9
+      },
+      {
+        "text": "Gemmer slik i vinkøleskabet",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Slotte kan tilgive næsten alt – undtagen hvad?",
+    "answers": [
+      {
+        "text": "Kai har spist sidste stykke chokolade",
+        "points": 48
+      },
+      {
+        "text": "Folk lyver",
+        "points": 32
+      },
+      {
+        "text": "Kai prutter i soveværelset",
+        "points": 5
+      },
+      {
+        "text": "Ikke får leveret tilbudsblade fra supermarkeder",
+        "points": 5
+      },
+      {
+        "text": "Når Kai brokker sig over varmen på ferie i Spanien/Italien/Grækenland",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Hvorfor gik der 33 år før de blev gift?",
+    "answers": [
+      {
+        "text": "Kai har haft dårlige knæ",
+        "points": 22
+      },
+      {
+        "text": "Kai var sløv i betrækket",
+        "points": 22
+      },
+      {
+        "text": "Slotte har sagt nej hundrede gange",
+        "points": 19
+      },
+      {
+        "text": "Skulle lige lærer hinanden at kende",
+        "points": 19
+      },
+      {
+        "text": "At være gift er sgu ikke så vigtigt",
+        "points": 9
+      },
+      {
+        "text": "Kai var nervøs",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Hvis der er noget, der kan få Kai op i det røde felt, så er det ______!",
+    "answers": [
+      {
+        "text": "United taber",
+        "points": 32
+      },
+      {
+        "text": "Når han taber og er immer unglücklich",
+        "points": 27
+      },
+      {
+        "text": "Uretfærdighed",
+        "points": 14
+      },
+      {
+        "text": "Folk der kører ufatteligt langsomt på vejene",
+        "points": 14
+      },
+      {
+        "text": "Dårlige golfslag",
+        "points": 9
+      },
+      {
+        "text": "Når nogen siger “sådan er det bare”",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Nævn det første der falder dig ind, når du tænker på Kai",
+    "answers": [
+      {
+        "text": "Spasmager",
+        "points": 46
+      },
+      {
+        "text": "Alletiders kammerat",
+        "points": 23
+      },
+      {
+        "text": "Omsorgsfuld og hjælpsom",
+        "points": 15
+      },
+      {
+        "text": "Immer unglücklich",
+        "points": 8
+      },
+      {
+        "text": "Peter Ingemanss dobbeltgænger",
+        "points": 4
+      },
+      {
+        "text": "Man United",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Nævn det første der falder dig ind, når du tænker på Slotte",
+    "answers": [
+      {
+        "text": "Betænksom / Omsorgsfuld",
+        "points": 23
+      },
+      {
+        "text": "Lækkert Mad, kogt blomkål og marabou",
+        "points": 19
+      },
+      {
+        "text": "Sød, smilende og dejligt grin",
+        "points": 16
+      },
+      {
+        "text": "Klog og nysgerrig",
+        "points": 15
+      },
+      {
+        "text": "Fantastisk veninde",
+        "points": 15
+      },
+      {
+        "text": "Gæstfri og gavmild",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Hvad ville de bruge penge på først, hvis de vandt 10 millioner kr. i Lotto?",
+    "answers": [
+      {
+        "text": "Rejser",
+        "points": 68
+      },
+      {
+        "text": "Donere til børnene",
+        "points": 12
+      },
+      {
+        "text": "Fliserenser",
+        "points": 8
+      },
+      {
+        "text": "Spille mere lotto",
+        "points": 4
+      },
+      {
+        "text": "Oplevelser",
+        "points": 4
+      },
+      {
+        "text": "De vinder aldrig",
+        "points": 4
+      }
+    ]
+  }
+]
