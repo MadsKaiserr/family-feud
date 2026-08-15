@@ -31,7 +31,7 @@ export default function StartScreen({
 
       <Logo />
       <p className="font-display text-lg text-[var(--feud-gold-light)] uppercase md:text-2xl">
-        Familie Duel
+        Hvem kender deres gæster bedst?
       </p>
 
       <div className="feud-panel flex w-full flex-col gap-6 rounded-2xl p-6 md:p-8">

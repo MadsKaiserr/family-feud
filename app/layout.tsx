@@ -15,7 +15,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Family Feud",
+  title: "Familien Bonde & Kaiser Feud",
   description: "Familie Feud - lokal quizshow til to spillere",
 };
 

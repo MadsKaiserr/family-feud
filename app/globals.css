@@ -32,12 +32,17 @@
 }
 
 body {
-  background: radial-gradient(
+  background-image: radial-gradient(
       circle at 50% -10%,
-      var(--feud-navy-light) 0%,
-      var(--feud-navy) 45%,
-      var(--feud-navy-dark) 100%
-    );
+      rgba(22, 39, 122, 0.6) 0%,
+      rgba(11, 26, 77, 0.7) 45%,
+      rgba(5, 11, 46, 0.8) 100%
+    ),
+    url("/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: var(--foreground);
   font-family: var(--font-body), Arial, Helvetica, sans-serif;
   min-height: 100vh;

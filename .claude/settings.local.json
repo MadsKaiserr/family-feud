@@ -12,7 +12,9 @@
       "Bash(kill 34782)",
       "Bash(awk 'NR>1{print $2}')",
       "Bash(xargs -r kill)",
-      "Bash(gh --version)"
+      "Bash(gh --version)",
+      "Bash(find /tmp /private/tmp /private/var/folders -maxdepth 6 -type f \\\\\\( -iname \"*.png\" -o -iname \"*.jpg\" -o -iname \"*.jpeg\" \\\\\\) -mmin -120 2>/dev/null | head -50)",
+      "Bash(cp \"/Users/madskaiser/Downloads/Yellow Purple Collage Polaroid Valentine’s Day Presentation.jpg\" \"/Users/madskaiser/Desktop/family_feud/public/background.jpg\" && ls -la /Users/madskaiser/Desktop/family_feud/public/background.jpg && file /Users/madskaiser/Desktop/family_feud/public/background.jpg)"
     ]
   }
 }

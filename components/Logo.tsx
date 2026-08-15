@@ -13,7 +13,7 @@ export default function Logo({ small = false }: { small?: boolean }) {
             "0 3px 0 #b3401f, 0 6px 0 #7a1a00, 0 10px 18px rgba(0,0,0,0.55)",
         }}
       >
-        FAMILY
+        FAMILIEN BONDE & KAISER
       </span>{" "}
       <span
         className="inline-block text-[var(--feud-red)]"
